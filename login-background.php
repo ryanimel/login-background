@@ -2,7 +2,7 @@
 /* 
 Plugin Name: Login Background
 Plugin URI: http://github.com/ryanimel/login-background
-Description: Add a background image to your WordPress login screen. This plugin will look for a <code>login-background.png</code> image in your active theme's <code>/images/</code> folder. Inspired by Mark Jaquith's simple Login Logo plugin.
+Description: Add a file called <code>login-background.jpg</code> to your <code>/wp-content/</code> directory to easily add a background image to your WordPress login screen. Inspired by Mark Jaquith's simple Login Logo plugin.
 Version: 0.1
 Author: Ryan Imel
 Author URI: http://ryanimel.com
